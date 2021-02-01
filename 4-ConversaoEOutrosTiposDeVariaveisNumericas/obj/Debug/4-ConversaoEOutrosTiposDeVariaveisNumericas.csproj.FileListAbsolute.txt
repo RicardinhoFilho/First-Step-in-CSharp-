@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposDeVariaveisNumericas\bin\Debug\4-ConversaoEOutrosTiposDeVariaveisNumericas.exe.config
+C:\Users\User\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposDeVariaveisNumericas\bin\Debug\4-ConversaoEOutrosTiposDeVariaveisNumericas.exe
+C:\Users\User\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposDeVariaveisNumericas\bin\Debug\4-ConversaoEOutrosTiposDeVariaveisNumericas.pdb
+C:\Users\User\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposDeVariaveisNumericas\obj\Debug\4-ConversaoEOutrosTiposDeVariaveisNumericas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposDeVariaveisNumericas\obj\Debug\4-ConversaoEOutrosTiposDeVariaveisNumericas.exe
+C:\Users\User\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposDeVariaveisNumericas\obj\Debug\4-ConversaoEOutrosTiposDeVariaveisNumericas.pdb

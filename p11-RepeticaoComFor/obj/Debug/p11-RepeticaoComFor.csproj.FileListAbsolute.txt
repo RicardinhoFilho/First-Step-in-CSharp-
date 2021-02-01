@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AprendendoCSharp\p11-RepeticaoComFor\obj\Debug\p11-RepeticaoComFor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AprendendoCSharp\p11-RepeticaoComFor\obj\Debug\p11-RepeticaoComFor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AprendendoCSharp\p11-RepeticaoComFor\bin\Debug\p11-RepeticaoComFor.exe.config
+C:\Users\User\source\repos\AprendendoCSharp\p11-RepeticaoComFor\bin\Debug\p11-RepeticaoComFor.exe
+C:\Users\User\source\repos\AprendendoCSharp\p11-RepeticaoComFor\bin\Debug\p11-RepeticaoComFor.pdb
+C:\Users\User\source\repos\AprendendoCSharp\p11-RepeticaoComFor\obj\Debug\p11-RepeticaoComFor.exe
+C:\Users\User\source\repos\AprendendoCSharp\p11-RepeticaoComFor\obj\Debug\p11-RepeticaoComFor.pdb

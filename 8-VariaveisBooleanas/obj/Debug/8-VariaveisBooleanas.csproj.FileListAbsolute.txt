@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AprendendoCSharp\8-VariaveisBooleanas\obj\Debug\8-VariaveisBooleanas.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AprendendoCSharp\8-VariaveisBooleanas\obj\Debug\8-VariaveisBooleanas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AprendendoCSharp\8-VariaveisBooleanas\bin\Debug\8-VariaveisBooleanas.exe.config
+C:\Users\User\source\repos\AprendendoCSharp\8-VariaveisBooleanas\bin\Debug\8-VariaveisBooleanas.exe
+C:\Users\User\source\repos\AprendendoCSharp\8-VariaveisBooleanas\bin\Debug\8-VariaveisBooleanas.pdb
+C:\Users\User\source\repos\AprendendoCSharp\8-VariaveisBooleanas\obj\Debug\8-VariaveisBooleanas.exe
+C:\Users\User\source\repos\AprendendoCSharp\8-VariaveisBooleanas\obj\Debug\8-VariaveisBooleanas.pdb

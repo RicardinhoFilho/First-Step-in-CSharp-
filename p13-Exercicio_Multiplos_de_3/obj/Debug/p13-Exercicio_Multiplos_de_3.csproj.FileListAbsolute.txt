@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AprendendoCSharp\p13-Exercicio_Multiplos_de_3\bin\Debug\p13-Exercicio_Multiplos_de_3.exe.config
+C:\Users\User\source\repos\AprendendoCSharp\p13-Exercicio_Multiplos_de_3\bin\Debug\p13-Exercicio_Multiplos_de_3.exe
+C:\Users\User\source\repos\AprendendoCSharp\p13-Exercicio_Multiplos_de_3\bin\Debug\p13-Exercicio_Multiplos_de_3.pdb
+C:\Users\User\source\repos\AprendendoCSharp\p13-Exercicio_Multiplos_de_3\obj\Debug\p13-Exercicio_Multiplos_de_3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AprendendoCSharp\p13-Exercicio_Multiplos_de_3\obj\Debug\p13-Exercicio_Multiplos_de_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AprendendoCSharp\p13-Exercicio_Multiplos_de_3\obj\Debug\p13-Exercicio_Multiplos_de_3.exe
+C:\Users\User\source\repos\AprendendoCSharp\p13-Exercicio_Multiplos_de_3\obj\Debug\p13-Exercicio_Multiplos_de_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\AprendendoCSharp\p14-Desafio_Exercicio_Fatorial\bin\Debug\p14-Desafio_Exercicio_Fatorial.exe.config
+C:\Users\User\source\repos\AprendendoCSharp\p14-Desafio_Exercicio_Fatorial\bin\Debug\p14-Desafio_Exercicio_Fatorial.exe
+C:\Users\User\source\repos\AprendendoCSharp\p14-Desafio_Exercicio_Fatorial\bin\Debug\p14-Desafio_Exercicio_Fatorial.pdb
+C:\Users\User\source\repos\AprendendoCSharp\p14-Desafio_Exercicio_Fatorial\obj\Debug\p14-Desafio_Exercicio_Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AprendendoCSharp\p14-Desafio_Exercicio_Fatorial\obj\Debug\p14-Desafio_Exercicio_Fatorial.exe
+C:\Users\User\source\repos\AprendendoCSharp\p14-Desafio_Exercicio_Fatorial\obj\Debug\p14-Desafio_Exercicio_Fatorial.pdb

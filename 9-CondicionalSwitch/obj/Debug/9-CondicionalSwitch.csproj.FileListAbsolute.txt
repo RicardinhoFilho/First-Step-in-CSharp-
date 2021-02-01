@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AprendendoCSharp\9-CondicionalSwitch\bin\Debug\9-CondicionalSwitch.exe.config
+C:\Users\User\source\repos\AprendendoCSharp\9-CondicionalSwitch\bin\Debug\9-CondicionalSwitch.exe
+C:\Users\User\source\repos\AprendendoCSharp\9-CondicionalSwitch\bin\Debug\9-CondicionalSwitch.pdb
+C:\Users\User\source\repos\AprendendoCSharp\9-CondicionalSwitch\obj\Debug\9-CondicionalSwitch.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AprendendoCSharp\9-CondicionalSwitch\obj\Debug\9-CondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AprendendoCSharp\9-CondicionalSwitch\obj\Debug\9-CondicionalSwitch.exe
+C:\Users\User\source\repos\AprendendoCSharp\9-CondicionalSwitch\obj\Debug\9-CondicionalSwitch.pdb

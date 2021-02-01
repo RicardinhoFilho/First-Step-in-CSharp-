@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AprendendoCSharp\p10-RepeticaoComWhile\bin\Debug\p10-RepeticaoComWhile.exe.config
+C:\Users\User\source\repos\AprendendoCSharp\p10-RepeticaoComWhile\bin\Debug\p10-RepeticaoComWhile.exe
+C:\Users\User\source\repos\AprendendoCSharp\p10-RepeticaoComWhile\bin\Debug\p10-RepeticaoComWhile.pdb
+C:\Users\User\source\repos\AprendendoCSharp\p10-RepeticaoComWhile\obj\Debug\p10-RepeticaoComWhile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AprendendoCSharp\p10-RepeticaoComWhile\obj\Debug\p10-RepeticaoComWhile.exe
+C:\Users\User\source\repos\AprendendoCSharp\p10-RepeticaoComWhile\obj\Debug\p10-RepeticaoComWhile.pdb
+C:\Users\User\source\repos\AprendendoCSharp\p10-RepeticaoComWhile\obj\Debug\p10-RepeticaoComWhile.csprojAssemblyReference.cache
